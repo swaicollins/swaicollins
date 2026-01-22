@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=swai-collins&label=Profile%20Views&color=3DDC84&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=swaicollins&label=Profile%20Views&color=3DDC84&style=flat" />
 </p>
 
 ---
@@ -73,23 +73,23 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=swai-collins&theme=onedark&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=collins-swai&theme=onedark&row=1&column=7" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swai-collins&show_icons=true&theme=onedark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=swaicollins&show_icons=true&theme=onedark" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swai-collins&layout=compact&theme=onedark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaicollins&layout=compact&theme=onedark" />
 </p>
 
 ---
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swai-collins&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swaicollins&theme=react-dark" />
 </p>
 
 ---
