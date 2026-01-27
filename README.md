@@ -8,6 +8,12 @@
 </p>
 
 <p align="center">
+  <a href="https://collins-swai.netlify.app/?utm_source=github&utm_medium=profile&utm_campaign=readme" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-3DDC84?style=flat&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=swaicollins&label=Profile%20Views&color=3DDC84&style=flat" />
 </p>
 
@@ -16,22 +22,21 @@
 ## 👨‍💻 About Me
 - 📱 **Android & Mobile Software Developer**
 - 🧠 Strong in **Kotlin, Java, Android SDK**
-- 🌱 Exploring **modern Android architecture & clean code**
-- 🤝 Open to **open-source & collaboration**
+- 🧩 Focused on **Clean Architecture & modern Android development**
+- 🤝 Open to **open-source collaboration & freelance work**
 - 🎮 Gamer in my free time
 
 ---
 
-## 🌍 Connect With Me
-<p align="center">
-  <a href="https://twitter.com/swai_collins" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" height="30" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/collinsswai/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="30" />
-  </a>
-</p>
+## 🧩 Android Expertise
+- Kotlin & Java
+- MVVM / Clean Architecture
+- Jetpack Compose
+- Coroutines & Flow
+- Room, Retrofit, Hilt
+- Firebase
+- Unit & UI Testing
+- Material Design 3
 
 ---
 
@@ -71,13 +76,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=collins-swai&theme=onedark&row=1&column=7" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=swaicollins&show_icons=true&theme=onedark" />
@@ -90,6 +88,23 @@
 ## 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=swaicollins&theme=react-dark" />
+</p>
+
+---
+
+## 🌍 Connect With Me
+<p align="center">
+  <a href="https://collins-swai.netlify.app/?utm_source=github&utm_medium=icon&utm_campaign=readme" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" height="30" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/swai_collins" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" height="30" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/collinsswai/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="30" />
+  </a>
 </p>
 
 ---
