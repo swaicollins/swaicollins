@@ -83,6 +83,23 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaicollins&layout=compact&theme=onedark" />
 </p>
 
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/swaicollins/swaicollins/output/pacman-contribution-graph-dark.svg"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/swaicollins/swaicollins/output/pacman-contribution-graph.svg"
+    >
+    <img
+      alt="Pacman contribution graph"
+      src="https://raw.githubusercontent.com/swaicollins/swaicollins/output/pacman-contribution-graph.svg"
+    >
+  </picture>
+</p>
+
 ---
 
 ## 📈 Contribution Graph
