@@ -119,7 +119,7 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" height="30" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/collinsswai/" target="_blank">
+  <a href="https://www.linkedin.com/in/kipkorirswai/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="30" />
   </a>
 </p>
