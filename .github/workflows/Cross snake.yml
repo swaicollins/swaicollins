@@ -6,12 +6,16 @@ on:
     branches:
       - main
   workflow_dispatch:
+
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: Generate GitHub Contribution Snake (light + dark)
         uses: Platane/snk@v3
         with:
