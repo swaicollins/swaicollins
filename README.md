@@ -78,33 +78,17 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swaicollins&show_icons=true&theme=onedark" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swaicollins&theme=github_dark" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swaicollins&theme=github_dark" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaicollins&layout=compact&theme=onedark" />
-</p>
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/swaicollins/swaicollins/output/pacman-contribution-graph-dark.svg"
-    >
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/swaicollins/swaicollins/output/pacman-contribution-graph.svg"
-    >
-    <img
-      alt="Pacman contribution graph"
-      src="https://raw.githubusercontent.com/swaicollins/swaicollins/output/pacman-contribution-graph.svg"
-    >
-  </picture>
+  <img src="https://streak-stats.demolab.com/?user=swaicollins&theme=dark&hide_border=true" />
 </p>
 
 ---
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swaicollins&theme=react-dark" />
+  <img src="https://ghchart.rshah.org/3DDC84/swaicollins" alt="Contribution chart" width="100%" />
 </p>
 
 ---
